@@ -1,3 +1,3 @@
 version: LeranLi.HELLO
 test:
-  password: '{cipher}'
+  password: '{cipher}b1583f8ab25174c06d9b844765de38c829798ac6cc789bce6cc1c08c8643006b'
