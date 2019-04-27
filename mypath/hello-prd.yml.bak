@@ -25,10 +25,3 @@ encrypt:
 #  bus:
 #    enabled: true
 #    sensitive: false
----
-spring:
-  cloud:
-    config:
-      server:
-      	encrypt:
-	  enabled: true
