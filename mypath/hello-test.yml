@@ -1,1 +1,6 @@
-version: abssssssssssssssssss
+server:
+  port: 8002
+eureka:
+  client:
+    service-url:
+      defaultZone: http://114.116.113.211:7001/eureka
